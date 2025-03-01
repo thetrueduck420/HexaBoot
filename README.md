@@ -14,3 +14,5 @@ once starting, the bootloader lists every bootable os and executes it
 you must code the os yourself, or get one from github like freeRTOS
 in addition, you can also add my PIgrade repo, which is linux for arduino
 its specifically built for this filesystem and bootloader
+
+feel free to add issues if you have any, id love to answer, it makes me feel pretty damn smart
