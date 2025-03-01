@@ -1,8 +1,11 @@
 a second stage bootloader for the raspberry pi pico and arduino
 
 this works on pretty low memory and flash, its relativelly small and it includes a filesystem called betterfs, made by me, in order to load an OS, you must put your os in a function
+
 example(){
+
  Serial.println("this is a testing os");
+
 }
 
 then you must add it to the BOOT_OS array and change the buffer (default being 1 for restart)
