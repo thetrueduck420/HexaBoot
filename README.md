@@ -18,4 +18,21 @@ you must code the os yourself, or get one from github like freeRTOS
 in addition, you can also add my PIgrade repo, which is linux for arduino
 its specifically built for this filesystem and bootloader
 
+do you have an sd card?
+good
+you dont have to do all of this
+
+just select the "sd card" os, wait for it do do its thing and turn it off
+
+then, youre gonna find a folder called "operating-systems" on the sd card
+
+in it, youre gonna want to put an assembled os
+one is provided 
+the one provided is an assembler, select an assembly file and itll assemble it
+then you can put it inside of the "operating-systems" folder and you can now boot into it!
+
+assembly documentation is available in this repo
+
+
 feel free to add issues if you have any, id love to answer, it makes me feel pretty damn smart
+
